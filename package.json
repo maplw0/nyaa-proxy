@@ -1,6 +1,7 @@
 {
   "name": "nyaa-proxy",
   "version": "1.0.0",
+  "type": "module",
   "description": "Private proxy for Hayase Nyaa extension",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
